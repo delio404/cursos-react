@@ -15,7 +15,7 @@ function App() {
           <header>
             <h3>Titulo</h3>
           </header>
-          <p>Escreva sua nota</p>
+          <p>Escreva sua nota a</p>
         </section>
       </li>
       <li>
